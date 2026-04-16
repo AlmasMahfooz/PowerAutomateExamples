@@ -6,4 +6,6 @@
 
 
 ![Uploading image.png…](https://github.com/AlmasMahfooz/PowerAutomateExamples/blob/main/SharePointExcel/PA1.png)
-![Uploading image.png…]()
+
+
+![Uploading image.png…](https://github.com/AlmasMahfooz/PowerAutomateExamples/blob/main/SharePointExcel/PA2.png)

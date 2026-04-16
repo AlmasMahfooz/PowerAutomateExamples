@@ -5,5 +5,5 @@
 3. Create HTML table and email to manager@xyz.com
 
 
-<>
+<https://github.com/AlmasMahfooz/PowerAutomateExamples/blob/main/SharePointExcel/PA1.png>
 <>

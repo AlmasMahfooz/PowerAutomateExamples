@@ -18,4 +18,3 @@ Power Automate Examples
 
 [https://regale.cloud/Microsoft/play/3889/create-a-business-process-flow-that-has-conditions]
 
-https://www.youtube.com/watch?v=u4ksAXEx0R4
